@@ -1,4 +1,4 @@
 # CovidZombieShooter
 
 # Demo
-[![Demo CountPages alpha](CovidZombieShooterGameplay.gif]()
+[![Demo CountPages alpha](CovidZombieShooterGameplay.gif)]()
